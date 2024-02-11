@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.33.9](https://github.com/Koenkk/zigbee-herdsman/compare/v0.33.8...v0.33.9) (2024-02-11)
+
+
+### Bug Fixes
+
+* Add 2 new attributes to manuSpecificSinope ([#912](https://github.com/Koenkk/zigbee-herdsman/issues/912)) ([3325997](https://github.com/Koenkk/zigbee-herdsman/commit/3325997da3afa94c2dd500b808c1261ba0a8abf8))
+* **ignore:** update dependencies ([#914](https://github.com/Koenkk/zigbee-herdsman/issues/914)) ([fc19b3d](https://github.com/Koenkk/zigbee-herdsman/commit/fc19b3dc8250184645528cd312fd8de5d390d237))
+
 ## [0.33.8](https://github.com/Koenkk/zigbee-herdsman/compare/v0.33.7...v0.33.8) (2024-02-04)
 
 
